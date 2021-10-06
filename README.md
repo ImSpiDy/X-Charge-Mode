@@ -38,4 +38,6 @@ su -c "setprop xcharge Slow" ( or slow or Low or low )
 
 7. And Enjoy ^_^ 
 
-Credit : @wHo_EM_i For Help 
+#Credit 
+
+Thx alot to @wHo_EM_i For Re-Writing The Script
