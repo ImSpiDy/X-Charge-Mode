@@ -2,7 +2,7 @@
 # A Magisk Module which helps in Charging With 3 Different Modes
 
 # Slow
-Slow / Overnight - 1600mA / 40°C
+Slow / Overnight - 1600mA / 42°C
 
 # Balance
 Balance / medium - 2325mA / 44°C
@@ -14,11 +14,13 @@ Fast / OverSpeed - 3000mA / 46°C
 
 # 1. Termux 
 
- su -c slow
+Run : 
 
- su -c med
+su -c "setprop xcharge Fast" ( or fast or High or high )
 
- su -c fast
+su -c "setprop xcharge Med" ( or med or Medium or medium )
+
+su -c "setprop xcharge Slow" ( or slow or Low or low )
 
 # 2. FKM
 
