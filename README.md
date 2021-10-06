@@ -37,3 +37,5 @@ su -c "setprop xcharge Slow" ( or slow or Low or low )
 6. Add Tile in Quick Settings 
 
 7. And Enjoy ^_^ 
+
+Credit : @wHo_EM_i For Help 
